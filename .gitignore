@@ -1,0 +1,8 @@
+Homestead.yaml
+Homestead.json
+.env
+/.idea
+.DS_store
+node_modules
+vendor/
+public/media/*
